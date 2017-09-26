@@ -1,0 +1,9 @@
+if 1 + 1 == 2:
+...     print "foo"
+...     print "bar"
+...     x = 42
+
+>>> if 1 + 1 == 2:
+...     print "foo"; print "bar"; x = 42
+
+>>> if 1 + 1 == 2: print "foo"; print "bar"; x = 42
